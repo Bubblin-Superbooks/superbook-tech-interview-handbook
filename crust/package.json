@@ -1,0 +1,42 @@
+{
+  "name": " <projectName> ",
+  "version": "0.0.6",
+  "description": "Superbook <projectName> by <username>",
+  "keywords": [
+    "superbook",
+    "bookiza"
+  ],
+  "author": " <username> <your@email.com> <(https://bubblin.io/<username>)>",
+  "license": "ISC",
+  "homepage": "https://bubblin.io/<username>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github/project/url/here"
+  },
+  "scripts": {
+    "postinstall": "node ./crust/scripts/ready.js"
+  },
+  "dependencies": {
+    "babel-preset-env": "1.7.0",
+    "book-length": "1.0.5",
+    "browser-sync": "2.26.5",
+    "chalk": "2.4.2",
+    "del": "4.1.1",
+    "delayed": "1.0.1",
+    "fs-extra": "8.0.1",
+    "gulp": "4.0.2",
+    "gulp-babel": "8.0.0",
+    "gulp-compile-handlebars": "0.6.1",
+    "gulp-concat": "2.6.1",
+    "gulp-haml": "1.0.1",
+    "gulp-if": "2.0.2",
+    "gulp-less": "4.0.1",
+    "gulp-markdown": "4.0.0",
+    "gulp-postcss": "8.0.0",
+    "gulp-sass": "4.0.2",
+    "gulp-stylus": "2.7.0",
+    "js-cookie": "2.2.0",
+    "path": "0.12.7",
+    "shelljs": "0.8.3"
+  }
+}

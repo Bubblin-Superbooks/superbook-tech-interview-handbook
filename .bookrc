@@ -1,0 +1,20 @@
+{
+  "name": "tech-interview-handbook",
+  "type": "text",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "draft",
+  "asset_url": ""
+}

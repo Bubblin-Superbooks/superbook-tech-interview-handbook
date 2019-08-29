@@ -1,0 +1,42 @@
+{
+  "name": "superbook-tech-interview-handbook",
+  "version": "0.0.8",
+  "description": "Superbook: Tech Interview Handbook by Yangshun Tay",
+  "keywords": [
+    "superbook",
+    "bookiza"
+  ],
+  "author": "marvin <marvindanig+yangshun@gmail.com> (https://bubblin.io/yangshun)",
+  "license": "ISC",
+  "homepage": "https://yangshun.im",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marvindanig/superbook-tech-interview-handbook"
+  },
+  "scripts": {
+    "postinstall": "node ./crust/scripts/ready.js"
+  },
+  "dependencies": {
+    "babel-preset-env": "1.7.0",
+    "book-length": "1.2.0",
+    "browser-sync": "2.26.7",
+    "chalk": "2.4.2",
+    "del": "5.0.0",
+    "delayed": "2.0.0",
+    "fs-extra": "8.1.0",
+    "gulp": "4.0.2",
+    "gulp-babel": "8.0.0",
+    "gulp-compile-handlebars": "0.6.1",
+    "gulp-concat": "2.6.1",
+    "gulp-haml": "1.0.1",
+    "gulp-if": "2.0.2",
+    "gulp-less": "4.0.1",
+    "gulp-markdown": "4.0.0",
+    "gulp-postcss": "8.0.0",
+    "gulp-sass": "4.0.2",
+    "gulp-stylus": "2.7.0",
+    "js-cookie": "2.2.0",
+    "path": "0.12.7",
+    "shelljs": "0.8.3"
+  }
+}
