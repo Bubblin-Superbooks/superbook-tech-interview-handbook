@@ -22,13 +22,10 @@ h2,
 h3,
 h4 {
   margin: 2vw 0;
-  padding: 0;
-  padding: 0;
-  color: #444;
   width: 100%;
   text-align: center;
   font-weight: 100;
-  line-height: 1.25;  
+  line-height: 1.25;
 }
 
 h1,
@@ -38,11 +35,17 @@ h4,
 h5,
 h6 {
   font-family: 'Berkshire Swash', cursive;
+  margin: 1vw 0;
+  padding: 0;
+  color: #444;
 }
 
 img {
   border: 0;
   -ms-interpolation-mode: bicubic;
+  display:block;
+  margin: calc(1/2 * 4vw * 1.50) auto;
+
 }
 
 a {
@@ -69,7 +72,8 @@ p {
 
 p.start-chapter {
   text-indent: 0;
-  margin: 0 0 0 0;  
+  margin:  0 0 0;
+  margin: calc( 3 * 4 * (150vh *(1115/1443))/100 * 7/5) auto 0;
 }
 
 p.start-chapter:first-letter {
@@ -78,7 +82,7 @@ p.start-chapter:first-letter {
   float: left;
   font-size: calc( 3 * 4vw ); /* three times normal size */
   line-height: calc(2 * 4vw * 1.50 * 0.95);
-  font-family: 'Berkshire Swash', cursive;  
+  font-family: 'Berkshire Swash', cursive;
   /* background: yellow; */     /* Test what looks good on your book */
 }
 
@@ -104,9 +108,18 @@ code {
   white-space: -pre-wrap;
   white-space: -o-pre-wrap;
   word-wrap: break-word;
-  margin: 0 auto calc( 4 * (150vh *(1115/1443))/100 * 7/5);
-  font-size: 90%;
+/*  margin: 0 auto calc( 4 * (150vh *(1115/1443))/100 * 7/5); */
+  margin: 0;
   text-align: center;
+  font-family: 'EB Garamond', serif;
+  font-style: normal;
+  font-synthesis: none;
+  font-stretch: ultra-condensed;
+  font-variant: no-common-ligatures proportional-nums slashed-zero;
+  font-size: 4vw;
+  line-height: calc(4vw * 1.50);
+  font-kerning: normal;
+  text-rendering: geometricPrecision;
 }
 
 h3 {
@@ -170,7 +183,7 @@ hr.section::after {
 }
 
 hr.section::before {
-  content: "❉";
+  content: "❦";
   color: black;
 }
 
@@ -187,7 +200,7 @@ hr.chapter::after {
 }
 
 hr.chapter::before {
-  content: "❧";
+  content: "❦";
   color: black;
 }
 
@@ -224,7 +237,7 @@ hr::before {
   width: 85vw;
   max-height: calc(17 * (4vw * 1.5) + 4vw);
   break-after: right;
-  /*background: aliceblue; */ /* enable to see the maximum staging area */
+  background: aliceblue;  /* enable to see the maximum staging area */
 }
 
 .flex {
@@ -241,22 +254,22 @@ hr::before {
 
 /* Helper classes */
 
-.no-indent {
+p.no-indent {
   text-indent: 0;
   /* Continue line on a new page with break on the previous page. */
 }
 
-.stretch-last-line {
+p.stretch-last-line {
   text-align-last: justify;
   /* Not supported on Safari */
 }
 
-.squeeze-para {
+p.squeeze-para {
   letter-spacing: -0.5px;
   /* Handle orphans and widows manually */
 }
 
-.stretch-para {
+p.stretch-para {
   letter-spacing: 0.5px;
   /* Handle orphans and widows manually */
 }
@@ -271,7 +284,7 @@ hr::before {
 
 .center {
   text-align: center;
-  margin: 0 auto;
+  margin: inherit auto;
 }
 
 .small {

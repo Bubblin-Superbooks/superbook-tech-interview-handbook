@@ -53,13 +53,10 @@ If you dream of working at a top-tier tech company one day, getting hired via an
 
 Top tech companies pay a ridiculous amount for interns:
 
-<div class="text--center">
 
-<img src={withBaseUrl('/img/internship-salaries.jpg')} />
+!["Internship Salaries"](images/internship-salaries.jpg "_Salaries of top tech internships in 2016 ([source](https://twitter.com/rodneyfolz/status/724787290824798209))_") 
 
-_Salaries of top tech internships in 2016 ([source](https://twitter.com/rodneyfolz/status/724787290824798209))_
 
-</div>
 
 ##### Company size
 
@@ -255,7 +252,9 @@ If you have some space on your resume, it is good to list additional interests o
 
 
 
-title: Interview Formats
+### Interview Formats
+
+
 ---
 
 Interviews are a multi-stage process and each stage can consist of vastly different formats.
@@ -427,7 +426,9 @@ If the company provides lunch, you might also have a lunch session with an emplo
 
 
 
-title: Self Introduction
+### Self Introduction
+
+
 ---
 
 You can rephrase the question like this:
@@ -473,17 +474,19 @@ Having an Elevator Pitch on hand is a great way to create a network and happen u
 
 
 
-title: Overview
+### Overview
+
+
 ---
 
 Coding interviews are tough. But fortunately, there's a tried and prove method to get better at them. With a combination of studying, practicing questions and doing mock interviews, getting that dream job can become a reality.
 
 1. Decide on a programming language
-1. Study CS fundamentals
-1. Practice solving algorithm questions
-1. Internalize the [Do's and Don'ts of interviews](./cheatsheet.md)
-1. Practice doing mock interviews
-1. Interview successfully to get the job
+2. Study CS fundamentals
+3. Practice solving algorithm questions
+4. Internalize the [Do's and Don'ts of interviews](./cheatsheet.md)
+5. Practice doing mock interviews
+6. Interview successfully to get the job
 
 
 
@@ -496,7 +499,9 @@ Coding interviews are tough. But fortunately, there's a tried and prove method t
 
 
 
-title: Picking a Language
+### Picking a Language
+
+
 ---
 
 Before anything else, you need to pick a programming language to do your interviews in. Most companies will let you code in any language you want, the only exception I know being Google, where they only allow candidates to pick from Java, C++, JavaScript or Python for their algorithmic coding interviews.
@@ -531,7 +536,9 @@ One exception to the convention of allowing you to "pick any programming languag
 
 
 
-title: Study and Practice
+### Study and Practice
+
+
 ---
 
 ##### Recap CS Fundamentals
@@ -580,7 +587,9 @@ Practice, practice and more practice!
 
 
 
-title: Best Practice Questions
+### Best Practice Questions
+
+
 ---
 
 Here is a suggested schedule for revising and practicing algorithm questions on [LeetCode](https://leetcode.com). Sign up for an account if you don't already have one, it's critical to your success in interviewing!
@@ -696,7 +705,9 @@ Practically speaking the return of investment (ROI) on studying and practicing f
 
 
 
-title: During the Coding Interview
+### During the Coding Interview
+
+
 ---
 
 Congratulations, you are ready to put your skills into practice! In a real coding interview, you will be given a technical question by the interviewer, write code in a real-time collaborative editor (phone screen) or on a whiteboard (on-site) to solve the problem within 30–45 minutes. This is where the real fun begins!
@@ -714,21 +725,21 @@ Use earphones and make sure you are in a quiet environment. You definitely do no
 Prepare a self introduction that follows the following outline (inspired by "Cracking the Coding Interview" by Gayle McDowell):
 
 1. A sentence about your current or most recent role.
-1. A few sentences about your (academic) background. What did you focus on?
-1. Some sentences about your professional experience after school/university. Where did you work? What projects did you deal with? What where typical challenges and tasks? Which technologies did you use?
-1. Mention one to two sentences about what you do outside of work, if it is relevant for the role.
-1. Finish with a statement saying why you are seeking a new job opportunity and why you are interested in the role you applied for.
+2. A few sentences about your (academic) background. What did you focus on?
+3. Some sentences about your professional experience after school/university. Where did you work? What projects did you deal with? What where typical challenges and tasks? Which technologies did you use?
+4. Mention one to two sentences about what you do outside of work, if it is relevant for the role.
+5. Finish with a statement saying why you are seeking a new job opportunity and why you are interested in the role you applied for.
 
 An example of the above could be:
 
 > I'm John Doe and currently a Software Engineer at Google.
->
+
 > My background is in Computer Science, where I received my bachelor's degree at MIT and my Master's degree at Stanford. I mainly did research on how to decrease complexity of search algorithms.
->
+
 > After university, I started to work at Microsoft as a Software Engineer. It was a great experience as I was working in the Office team contributing to MS Word and MS Powerpoint. I learned a lot about C# and .NET back then. After about two years, I got an offer from Google where I have been working since then. I'm now leading the Search Optimization team and have gained a lot of knowledge in scalability and domain knowledge. My daily tasks consist of optimizing search queries and mentoring junior engineers.
->
+
 > Outside of work I develop a on open source projects written in Python. Examples of some open source projects I created are &lt;insert examples&gt;.
->
+
 > I'm now seeking new job opportunities in the Boston area since I'm relocating for personal reasons. In particular I think Boston Dynamics is a perfect fit for my interests as well as my skill set.
 
 ##### Upon receiving the question
@@ -801,7 +812,9 @@ If your interviewer is happy with the solution, the interview usually ends here.
 
 
 
-title: Cheatsheet
+### Cheatsheet
+
+
 ---
 
 This is a straight-to-the-point, distilled list of technical interview Do's and Don'ts, mainly for algorithmic interviews. Some of these may apply to only phone screens or whiteboard interviews, but most will apply to both. I revise this list before each of my interviews to remind myself of them and eventually internalized all of them to the point I do not have to rely on it anymore.
@@ -917,7 +930,9 @@ This is a straight-to-the-point, distilled list of technical interview Do's and 
 
 
 
-title: Mock Interviews
+### Mock Interviews
+
+
 ---
 
 Interviewing is a skill that you can get better at. The steps mentioned above can be rehearsed over and over again until you have fully internalized them and following those steps become second nature to you. A good way to practice is to find a friend to partner with and the both of you can take turns to interview each other.
@@ -939,7 +954,9 @@ Personally, I am not that fond of Pramp's approach because if I were to intervie
 
 
 
-title: STAR Framework
+### STAR Framework
+
+
 ---
 
 Learn the [STAR](https://en.wikipedia.org/wiki/Situation,_task,_action,_result) format. From Wikipedia:
@@ -960,7 +977,9 @@ Learn the [STAR](https://en.wikipedia.org/wiki/Situation,_task,_action,_result) 
 
 
 
-title: Common Questions
+### Common Questions
+
+
 ---
 
 ###### General
@@ -1129,7 +1148,9 @@ Source: [Glassdoor](https://www.glassdoor.com/Interview/Twitter-Interview-Questi
 
 
 
-title: Psychological Tricks
+### Psychological Tricks
+
+
 ---
 
 Here are some psychological tricks that will help you ace a job interview.
@@ -1167,7 +1188,9 @@ Here are some psychological tricks that will help you ace a job interview.
 
 
 
-title: Questions To Ask
+### Questions To Ask
+
+
 ---
 
 Here are some good questions to ask at the end of the interview, extracted from various sources. The ones in **bold** are the ones that tend to make the interviewer go "That's a good question" and pause and think for a bit.
@@ -1306,7 +1329,9 @@ These questions are intended for senior level management, such as CEO, CTO, VPs.
 
 
 
-title: Negotiation
+### Negotiation
+
+
 ---
 
 ##### Ten Rules of Negotiation
@@ -1403,7 +1428,9 @@ Don't waste their time or play games for your own purposes. Even if the company 
 
 
 
-title: Understanding Compensation
+### Understanding Compensation
+
+
 ---
 
 Compensation is a huge factor when it comes to deciding between job offers. This section gives you a breakdown of the common components of compensation in the tech industry.

@@ -96,20 +96,8 @@
     "innerHtml": "Top tech companies pay a ridiculous amount for interns:"
   },
   {
-    "tag": "p",
-    "innerHtml": "<div class=\"text--center\">"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<img src={withBaseUrl('/img/internship-salaries.jpg')} />"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<em>Salaries of top tech internships in 2016 (<a href=\"https://twitter.com/rodneyfolz/status/724787290824798209\">source</a>)</em>"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "</div>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/superbook-tech-interview-handbook/master/assets/images/internship-salaries.jpg"
   },
   {
     "tag": "h5",
@@ -453,8 +441,12 @@
     "innerHtml": "Interview Process"
   },
   {
-    "tag": "h2",
-    "innerHtml": "Title: Interview Formats"
+    "tag": "h3",
+    "innerHtml": "Interview Formats"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -731,8 +723,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Title: Self Introduction"
+    "tag": "h3",
+    "innerHtml": "Self Introduction"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -821,8 +817,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Title: Overview"
+    "tag": "h3",
+    "innerHtml": "Overview"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -846,8 +846,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Title: Picking A Language"
+    "tag": "h3",
+    "innerHtml": "Picking A Language"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -898,8 +902,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Title: Study And Practice"
+    "tag": "h3",
+    "innerHtml": "Study And Practice"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h5",
@@ -978,8 +986,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Title: Best Practice Questions"
+    "tag": "h3",
+    "innerHtml": "Best Practice Questions"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -1172,8 +1184,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Title: During The Coding Interview"
+    "tag": "h3",
+    "innerHtml": "During The Coding Interview"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -1340,8 +1356,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Title: Cheatsheet"
+    "tag": "h3",
+    "innerHtml": "Cheatsheet"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -1422,8 +1442,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Title: Mock Interviews"
+    "tag": "h3",
+    "innerHtml": "Mock Interviews"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -1450,8 +1474,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Title: Star Framework"
+    "tag": "h3",
+    "innerHtml": "Star Framework"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -1473,8 +1501,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Title: Common Questions"
+    "tag": "h3",
+    "innerHtml": "Common Questions"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h6",
@@ -1746,8 +1778,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Title: Psychological Tricks"
+    "tag": "h3",
+    "innerHtml": "Psychological Tricks"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -1795,8 +1831,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Title: Questions To Ask"
+    "tag": "h3",
+    "innerHtml": "Questions To Ask"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -2001,8 +2041,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Title: Negotiation"
+    "tag": "h3",
+    "innerHtml": "Negotiation"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h5",
@@ -2173,8 +2217,12 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Title: Understanding Compensation"
+    "tag": "h3",
+    "innerHtml": "Understanding Compensation"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
