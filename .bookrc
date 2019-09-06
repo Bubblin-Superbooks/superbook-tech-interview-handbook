@@ -1,5 +1,5 @@
 {
-  "name": "tech-interview-handbook",
+  "name": "Tech Interview Handbook",
   "type": "text",
   "has_page_numbers": true,
   "mode": {
@@ -9,7 +9,7 @@
     "HEAD": "html"
   },
   "cover": {
-    "punchline": "",
+    "punchline": "Carefully curated content to ace your next technical interview.",
     "toc": "",
     "author_detail": "",
     "colophon": "",
