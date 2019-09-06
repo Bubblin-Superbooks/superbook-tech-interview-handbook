@@ -94,11 +94,12 @@ blockquote {
   position: relative;
   quotes: "\201C""\201D""\2018""\2019";
   width: 90%;
-  margin: calc( 4 * (150vh *(1115/1443))/100 * 7/5) auto;
+  margin: calc( 1/2 * (150vh *(1115/1443))/100 * 7/5) auto;
+  /* background: #ffc; /*   /* Enable this color if require */
 }
 
-blockquote p {
-  margin: calc( 4 * (150vh *(1115/1443))/100 * 7/5) auto !important;
+blockquote p, blockquote em {
+  margin: calc( 1/2 * (150vh *(1115/1443))/100 * 7/5) auto !important;
 }
 
 pre,
@@ -235,9 +236,11 @@ hr::before {
 .inner {
   margin: calc((100vh - (17 * (4vw * 1.5) + 4vw))/2) auto;
   width: 85vw;
+  height: calc(17 * (4vw * 1.5) + 4vw);
   max-height: calc(17 * (4vw * 1.5) + 4vw);
   break-after: right;
-  background: aliceblue;  /* enable to see the maximum staging area */
+  display:inline-block;
+  /* background: aliceblue; */ /* enable to see the maximum staging area */
 }
 
 .flex {

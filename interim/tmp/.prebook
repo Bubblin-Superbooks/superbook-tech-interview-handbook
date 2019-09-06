@@ -1237,7 +1237,23 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<p>I'm John Doe and currently a Software Engineer at Google.</p>\n<p>My background is in Computer Science, where I received my bachelor's degree at MIT and my Master's degree at Stanford. I mainly did research on how to decrease complexity of search algorithms.</p>\n<p>After university, I started to work at Microsoft as a Software Engineer. It was a great experience as I was working in the Office team contributing to MS Word and MS Powerpoint. I learned a lot about C# and .NET back then. After about two years, I got an offer from Google where I have been working since then. I'm now leading the Search Optimization team and have gained a lot of knowledge in scalability and domain knowledge. My daily tasks consist of optimizing search queries and mentoring junior engineers.</p>\n<p>Outside of work I develop a on open source projects written in Python. Examples of some open source projects I created are <insert examples>.</p>\n<p>I'm now seeking new job opportunities in the Boston area since I'm relocating for personal reasons. In particular I think Boston Dynamics is a perfect fit for my interests as well as my skill set.</p>"
+    "innerHtml": "<p>I'm John Doe and currently a Software Engineer at Google.</p>"
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>My background is in Computer Science, where I received my bachelor's degree at MIT and my Master's degree at Stanford. I mainly did research on how to decrease complexity of search algorithms.</p>"
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>After university, I started to work at Microsoft as a Software Engineer. It was a great experience as I was working in the Office team contributing to MS Word and MS Powerpoint. I learned a lot about C# and .NET back then. After about two years, I got an offer from Google where I have been working since then. I'm now leading the Search Optimization team and have gained a lot of knowledge in scalability and domain knowledge. My daily tasks consist of optimizing search queries and mentoring junior engineers.</p>"
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>Outside of work I develop a on open source projects written in Python. Examples of some open source projects I created are <insert examples>.</p>"
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>I'm now seeking new job opportunities in the Boston area since I'm relocating for personal reasons. In particular I think Boston Dynamics is a perfect fit for my interests as well as my skill set.</p>"
   },
   {
     "tag": "h5",
