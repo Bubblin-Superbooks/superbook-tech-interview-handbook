@@ -1,0 +1,5 @@
+<div class="leaf flex"><div class="inner justify"><p class="no-indent  "><code>[2, 3]</code> are considered overlapping intervals as it affects how you will write your equality checks.</p><p>A common routine for interval questions is to sort the array of intervals by each interval's starting value.</p><p>Be familiar with writing code to check if two intervals overlap and merging two overlapping intervals:</p><pre><code>def is_overlap(a, b):
+  return a[0] < b[1] and b[0] < a[1]
+
+def merge_overlapping_intervals(a, b):
+  return [min(a[0], b[0]), max(a[1], b[1])]</code></pre></div> </div>
