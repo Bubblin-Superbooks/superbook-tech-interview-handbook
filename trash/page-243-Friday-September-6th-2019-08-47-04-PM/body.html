@@ -1,0 +1,4 @@
+<div class="leaf flex"><div class="inner justify"><h3>Non-repeating Characters</h3><ul><li>Use a 26-bit bitmask to indicate which lower case latin characters are inside the string.</li></ul><pre><code>mask = 0
+for c in set(word):
+  mask |= (1 << (ord(c - ord('a')))) 
+</code></pre><p>To determine if two strings have common characters, perform & on the two bitmasks. If the result is non-zero, <code>mask_a & mask_b > 0</code>, then the two strings have common characters.</p></div> </div>

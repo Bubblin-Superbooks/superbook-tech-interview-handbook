@@ -163,7 +163,9 @@ ol li.split-li::before {
 ul {
   margin: 0 0 0 5vw;
   padding: 0;
-  list-style: none;
+  list-style: disc;
+  list-style-position: outside;
+  list-style-image: none;  
 }
 
 ul li {
