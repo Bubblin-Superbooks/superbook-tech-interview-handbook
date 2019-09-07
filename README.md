@@ -112,11 +112,6 @@ PRs are absolutely welcome, but we also accept changes via other standard channe
 
 Translation to other languages is super welcome. 
 
-### SOURCE:
-
-The scroll (or file) of this book was sourced from [Gutenberg.org](http://gutenberg.org).
-
-
 
 ## LICENSE
 
