@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://yangshun.github.io/tech-interview-handbook/">
-    <img src="website/static/img/logo.svg" alt="Tech Interview Handbook" width="400">
+    <img src="./assets/images/logo.svg" alt="Tech Interview Handbook" width="400">
   </a>
   <br>
   <p>
