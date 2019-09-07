@@ -36,14 +36,6 @@ This repository has _practical_ content that covers all phases of a technical in
 
 Anybody who wants to land a job at a tech company but is new to technical interviews, seasoned engineers who have not been on the other side of the interviewing table in a while and want to get back into the game, or anyone who wants to be better at technical interviewing.
 
----
-
-<div align="center">
-  <strong>💰 Looking for a job? Sign up for free with <a href="https://triplebyte.com/a/PJaJNpO/tihg">Triplebyte</a> to efficiently interview with top tech companies! 💰</strong>
-</div>
-
----
-
 ## How is this repository different?
 
 There are many awesome books like [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) and interview-related repositories out there on GitHub, what makes this repository different? The difference is that many existing interview repositories contain mainly links to external resources whereas this repository contains top quality curated content directly for your consumption.
@@ -62,7 +54,7 @@ Also, existing resources focus mainly on algorithm questions and lack coverage f
 
 # THE SUPERBOOK
 
-A nifty text book for software developers wanting to prepare better. To read the book go <a href="https://bubblin.io/book/tech-interview-handbook-by-yangshun-tay/1" class="cover">here</a>.
+This nifty textbook is meant for software developers wanting to prepare better. To read go <a href="https://bubblin.io/book/tech-interview-handbook-by-yangshun-tay/1" class="cover">here</a>.
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://bubblin.io/about)
